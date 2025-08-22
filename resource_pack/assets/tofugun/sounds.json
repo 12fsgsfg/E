@@ -1,0 +1,263 @@
+{
+  "tofugun.pistol.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/pistol/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.revolver.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/revolver/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.smg.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/smg/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.uzi.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/uzi/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.assault_rifle.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/assault_rifle/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.ak47.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/ak47/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.m4a1.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/m4a1/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.sniper_rifle.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/sniper_rifle/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.awp.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/awp/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.shotgun.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/shotgun/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.double_barrel.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/double_barrel/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.machine_gun.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/machine_gun/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.minigun.shoot": {
+    "sounds": [
+      {
+        "name": "tofugun/minigun/shoot",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.pistol.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/pistol/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.revolver.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/revolver/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.smg.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/smg/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.uzi.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/uzi/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.assault_rifle.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/assault_rifle/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.ak47.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/ak47/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.m4a1.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/m4a1/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.sniper_rifle.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/sniper_rifle/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.awp.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/awp/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.shotgun.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/shotgun/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.double_barrel.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/double_barrel/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.machine_gun.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/machine_gun/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.minigun.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/minigun/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.reload": {
+    "sounds": [
+      {
+        "name": "tofugun/reload",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.hit": {
+    "sounds": [
+      {
+        "name": "tofugun/hit",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tofugun.empty": {
+    "sounds": [
+      {
+        "name": "tofugun/empty",
+        "volume": 0.5,
+        "pitch": 0.8
+      }
+    ]
+  }
+}

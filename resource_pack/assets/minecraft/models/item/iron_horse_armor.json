@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "tofugun/guns/pistol"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "tofugun/guns/revolver"
+    }
+  ]
+}
